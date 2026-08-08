@@ -34,7 +34,6 @@ Os dois dispositivos pertencem à rede 192.168.1.0/24.
 🔧 Configuração
 
 Os endereços IPv4 foram configurados manualmente utilizando endereçamento estático.
-
 O gateway padrão não foi configurado, pois o laboratório não possui um roteador e a comunicação ocorre exclusivamente dentro da rede local.
 
 🧪 Teste de Conectividade
@@ -50,6 +49,7 @@ Resultado
 Os dois testes apresentaram respostas com sucesso, confirmando a comunicação entre os computadores através do switch.
 
 📚 Conceitos Praticados
+
 Comunicação em rede local (LAN)
 Endereçamento IPv4
 Máscara de sub-rede
