@@ -25,6 +25,7 @@ A topologia é composta por:
           └─────┘       └─────┘
 
 🌐 Endereçamento IPv4
+
 Dispositivo /Endereço IPv4/	Máscara de Sub-rede	  Gateway
 PC0	      192.168.1.10	    255.255.255.0	       0.0.0.0
 PC1	      192.168.1.20	     255.255.255.0	      0.0.0.0
