@@ -8,6 +8,8 @@ O laboratório demonstra como um roteador permite a comunicação entre disposit
 
 ## 🖥️ Topologia
 
+![Topologia do Laboratório 02](lab02-topologia.png)
+
 A topologia é composta por:
 
 - 1 Switch Cisco 2960-24TT
