@@ -6,6 +6,8 @@ Realizar a configuração básica de uma rede local e verificar a comunicação 
 
 ## 🖥️ Topologia
 
+![Topologia do Laboratório 01](lab01-topologia.png)
+
 A topologia é composta por:
 
 - 1 Switch Cisco 2960-24TT
