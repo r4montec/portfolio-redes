@@ -61,3 +61,7 @@ Comunicação entre hosts pertencentes à mesma sub-rede
 
 🛠️ Ferramenta
 Cisco Packet Tracer
+
+## 🖥️ Topologia:
+
+![Topologia do Laboratório 01](lab01-topologia.png)
