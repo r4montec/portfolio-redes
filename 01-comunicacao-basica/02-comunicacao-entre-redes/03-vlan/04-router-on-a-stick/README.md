@@ -1,4 +1,4 @@
-Laboratório 04 — Router-on-a-Stick
+## Laboratório 04 — Router-on-a-Stick
 
 Implementação de roteamento entre VLANs utilizando a técnica Router-on-a-Stick no Cisco Packet Tracer.
 
@@ -7,7 +7,7 @@ Implementação de roteamento entre VLANs utilizando a técnica Router-on-a-Stic
 
 
 
-Configurações realizadas:
+## Configurações realizadas:
 
 - Criação das VLANs 10 e 20;
 - Configuração das portas de acesso;
@@ -17,7 +17,7 @@ Configurações realizadas:
 - Testes de conectividade entre dispositivos de VLANs diferentes.
 
 
-Endereçamento:
+## Endereçamento:
 
 - VLAN: 10 
 * Rede:192.168.10.0/24	
@@ -28,6 +28,6 @@ Endereçamento:
 * Gateway:192.168.20.1
 
 
-Resultado:
+## Resultado:
 
 Comunicação entre as VLANs validada com sucesso através de testes de ping.
