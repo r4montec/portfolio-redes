@@ -20,12 +20,12 @@ Configurações realizadas:
 Endereçamento:
 
 - VLAN: 10 
-  Rede:192.168.10.0/24	
-  Gateway: 192.168.10.1
+* Rede:192.168.10.0/24	
+* Gateway: 192.168.10.1
 
 - VLAN: 20 
-  Rede: 192.168.20.0/24
-  Gateway:192.168.20.1
+* Rede: 192.168.20.0/24
+* Gateway:192.168.20.1
 
 
 Resultado:
