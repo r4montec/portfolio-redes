@@ -18,12 +18,11 @@ A topologia é composta por:
 - 1 Switch Cisco 2960-24TT
 - 2 computadores (PC0 e PC1)
 
-### Representação
-
-```text
 PC0 ─────── Switch0 ─────── PC1
 
+
 🌐 Endereçamento IP
+
 Dispositivo	Endereço IP	  Máscara	       Gateway
 PC0	        192.168.1.10	255.255.255.0	 0.0.0.0
 PC1	        192.168.1.20	255.255.255.0	 0.0.0.0
@@ -34,7 +33,8 @@ Os dois computadores pertencem à mesma rede:
 
 Como a comunicação ocorre dentro da mesma rede local, não foi necessário utilizar um gateway.
 
-🔌 Conexões
+🔌 Conexões:
+
 Dispositivo	Porta do Switch
 PC0	Fa0/1
 PC1	Fa0/3
