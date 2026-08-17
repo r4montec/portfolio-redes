@@ -21,7 +21,8 @@ A topologia é composta por:
 PC0 ─────── Switch0 ─────── PC1
 
 
-🌐 Endereçamento IP
+
+## 🌐 Endereçamento IP:
 
 Dispositivo	Endereço IP	  Máscara	       Gateway
 PC0	        192.168.1.10	255.255.255.0	 0.0.0.0
@@ -33,7 +34,7 @@ Os dois computadores pertencem à mesma rede:
 
 Como a comunicação ocorre dentro da mesma rede local, não foi necessário utilizar um gateway.
 
-🔌 Conexões:
+## 🔌 Conexões:
 
 Dispositivo	Porta do Switch
 PC0	Fa0/1
@@ -41,7 +42,7 @@ PC1	Fa0/3
 
 Ambas as portas permanecem na VLAN 1 (default).
 
-🧪 Testes de Conectividade
+## 🧪 Testes de Conectividade:
 
 Foram realizados testes de comunicação entre os computadores utilizando o comando ping.
 
@@ -63,7 +64,8 @@ Reply from 192.168.1.10
 
 Comunicação realizada com sucesso.
 
-🔎 Verificação da VLAN
+
+## 🔎 Verificação da VLAN:
 
 Comando utilizado:
 
@@ -75,7 +77,8 @@ VLAN 1    default    active    Fa0/1, Fa0/2, Fa0/3, Fa0/4, ...
 
 As portas utilizadas pelos computadores (Fa0/1 e Fa0/3) estão ativas na VLAN 1.
 
-🧠 Aprendizado de Endereços MAC
+
+## 🧠 Aprendizado de Endereços MAC:
 
 Foi utilizado o comando:
 
@@ -90,7 +93,7 @@ Vlan    Mac Address       Type        Ports
 
 O resultado demonstra que o switch aprendeu dinamicamente os endereços MAC dos dois computadores e associou cada endereço à respectiva porta física.
 
-✅ Resultado
+## ✅ Resultado
 
 O laboratório foi concluído com sucesso.
 
@@ -103,7 +106,7 @@ Funcionamento das portas de acesso do switch;
 Aprendizado dinâmico de endereços MAC;
 Conectividade confirmada através de ping.
 
-🛠️ Tecnologias e Ferramentas:
+## 🛠️ Tecnologias e Ferramentas:
 
 - Cisco Packet Tracer
 - Cisco Catalyst 2960
