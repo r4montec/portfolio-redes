@@ -16,11 +16,13 @@ Configurações realizadas:
 - Configuração dos gateways das VLANs;
 - Testes de conectividade entre dispositivos de VLANs diferentes.
 
+
 Endereçamento:
 
-VLAN	   Rede	            Gateway
-VLAN 10	 192.168.10.0/24	192.168.10.1
-VLAN 20	 192.168.20.0/24	192.168.20.1
+  VLAN	      Rede	              Gateway
+|VLAN 10|	 |192.168.10.0/24|	|192.168.10.1|
+|VLAN 20|  |192.168.20.0/24|	|192.168.20.1|
+
 
 Resultado:
 
