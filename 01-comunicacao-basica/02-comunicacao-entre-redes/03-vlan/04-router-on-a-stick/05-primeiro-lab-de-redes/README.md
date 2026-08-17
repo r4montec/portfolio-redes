@@ -105,10 +105,10 @@ Conectividade confirmada através de ping.
 
 🛠️ Tecnologias e Ferramentas:
 
-Cisco Packet Tracer
-Cisco Catalyst 2960
-IPv4
-Ethernet
-VLAN
-MAC Address Table
-ICMP / Ping
+- Cisco Packet Tracer
+- Cisco Catalyst 2960
+- IPv4
+- Ethernet
+- VLAN
+- MAC Address Table
+- ICMP / Ping
