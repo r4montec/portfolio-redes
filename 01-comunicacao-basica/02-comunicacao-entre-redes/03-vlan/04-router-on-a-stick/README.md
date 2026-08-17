@@ -4,20 +4,24 @@ Implementação de roteamento entre VLANs utilizando a técnica Router-on-a-Stic
 
 ![Topologia do Laboratório 04](lab04-topologia.png)
 
-Configurações realizadas
-Criação das VLANs 10 e 20;
-Configuração das portas de acesso;
-Configuração de trunk 802.1Q entre switch e roteador;
-Criação das subinterfaces G0/0.10 e G0/0.20;
-Configuração dos gateways das VLANs;
-Testes de conectividade entre dispositivos de VLANs diferentes.
 
-Endereçamento
+
+
+Configurações realizadas:
+
+- Criação das VLANs 10 e 20;
+- Configuração das portas de acesso;
+- Configuração de trunk 802.1Q entre switch e roteador;
+- Criação das subinterfaces G0/0.10 e G0/0.20;
+- Configuração dos gateways das VLANs;
+- Testes de conectividade entre dispositivos de VLANs diferentes.
+
+Endereçamento:
 
 VLAN	   Rede	            Gateway
 VLAN 10	 192.168.10.0/24	192.168.10.1
 VLAN 20	 192.168.20.0/24	192.168.20.1
 
-Resultado
+Resultado:
 
 Comunicação entre as VLANs validada com sucesso através de testes de ping.
